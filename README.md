@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ไม่รู้จะใส่อะไร แอร่~
 <!--
 **artijo/artijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
