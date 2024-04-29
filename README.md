@@ -15,7 +15,7 @@ Hello, my name is Art. I'm currently a student in the IT program. I enjoy web de
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,astro)](https://skillicons.dev)
 
 #### Development Tools:
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,powershell)](https://skillicons.dev)
 
 #### Database and Storage:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
