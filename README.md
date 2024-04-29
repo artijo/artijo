@@ -9,7 +9,7 @@ Hello, my name is Art. I'm currently a student in the IT program. I enjoy web de
 ### :computer: Languages and Tools
 
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,go,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,go,php)](https://skillicons.dev)
 
 #### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,astro)](https://skillicons.dev)
